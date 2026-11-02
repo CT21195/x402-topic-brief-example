@@ -1,0 +1,1 @@
+{"dependencies":{"viem":"^2.0.0"},"description":"An agent pays $0.05 for a topic brief from a pay-per-call x402 API — no account, no API key.","license":"MIT","main":"example.mjs","name":"x402-topic-brief-example","type":"module","version":"1.0.0"}
